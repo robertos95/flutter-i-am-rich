@@ -8,4 +8,4 @@ pubspec.lock
 *.iws
 .idea
 # Mac
-.DS_Store     // Mac
+.DS_Store
